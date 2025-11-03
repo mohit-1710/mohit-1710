@@ -2,23 +2,52 @@
 <h1 align="center">👾 Mohit's Web3 Arcade</h1>
 
 ###
-
 <br clear="both">
-
+<!-- ====== TECH STACK ====== -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+ <!-- Web3 -->
+  <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=actix" height="60" alt="actix logo" />
+  <a href="https://actix.rs/docs/"><img src="https://skillicons.dev/icons?i=actix" height="60" alt="actix logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tauri" height="60" alt="tauri logo" />
+  <a href="https://docs.soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" height="60" alt="solidity logo" /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <a href="https://tauri.app/v1/guides/"><img src="https://skillicons.dev/icons?i=tauri" height="60" alt="tauri logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="fastapi logo" />
+  <a href="https://archlinux.org/"><img src="https://cdn.simpleicons.org/archlinux/1793D1" height="60" alt="arch-linux logo" /></a>
+
+  <!-- Web2 -->
+  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="60" alt="arch-linux logo" />
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" /></a>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="60" alt="graphql logo" />
+  <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" /></a>
+  <img width="12" />
+  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" /></a>
+  <img width="12" />
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring boot logo" /></a>
+  <img width="12" />
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" /></a>
+  <img width="12" />
+  <a href="https://cplusplus.com/doc/tutorial/"><img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo" /></a>
+  <img width="12" />
+  <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind css logo" /></a>
+  <img width="12" />
+  <a href="https://graphql.org/learn/"><img src="https://cdn.simpleicons.org/graphql/E10098" height="60" alt="graphql logo" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="git logo" /></a>
+  <img width="12" />
+
+  <!-- DevOps / Infra -->
+  <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" /></a>
+  <img width="12" />
+  <a href="https://kubernetes.io/docs/home/"><img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" /></a>
+  <img width="12" />
+  <a href="https://redis.io/docs/"><img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo" /></a>
+  <img width="12" />
+  <a href="https://cloud.google.com/docs"><img src="https://skillicons.dev/icons?i=gcp" height="60" alt="google cloud logo" /></a>
+  <img width="12" />
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" /></a>
+  <img width="12" />
 </div>
 
 ###
