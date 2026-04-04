@@ -32,6 +32,7 @@ daily → arch linux · hyprland · nvim
 
 <br/>
 
+<samp>profile views</samp><br/><br/>
 <img src="https://count.getloli.com/@:mohit-1710?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 
 </div>
