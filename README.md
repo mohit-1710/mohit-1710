@@ -8,6 +8,10 @@
 
 *"As Long As I Live, There Are Infinite Chances!"*
 
+<br/>
+
+<samp>🔬 <a href="https://mohit-1710.github.io">mohit-1710.github.io</a> — research, papers & what i'm building</samp>
+
 <br/><br/>
 </div>
 
@@ -36,4 +40,3 @@ daily → arch linux · hyprland · nvim
 <img src="https://count.getloli.com/@:mohit-1710?theme=booru-jaypee&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 
 </div>
-V
