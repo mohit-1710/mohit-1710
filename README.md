@@ -10,7 +10,7 @@
 
 <br/>
 
-<samp>🔬 <a href="https://mohit-1710.github.io">mohit-1710.github.io</a> — research, papers & what i'm building</samp>
+<samp><a href="https://mohit-1710.github.io">mohit-1710.github.io</a> — what i'm building</samp>
 
 <br/><br/>
 </div>
